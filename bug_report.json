@@ -1,0 +1,10 @@
+{
+  "Bug_id": 01,
+  "Title": "name_of_title",
+  "Severity": "minor",
+  "Priority": "medium",
+  "Environment": "Chrome, Windows 10",
+  "Steps to reproduce": "1...; 2...; 3...;",
+  "Actual result": "result",
+  "Expected result":
+}
