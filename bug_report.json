@@ -4,7 +4,10 @@
   "Severity": "minor",
   "Priority": "medium",
   "Environment": "Chrome, Windows 10",
-  "Steps to reproduce": "1...; 2...; 3...;",
+  "Steps to reproduce": 
+  "1. Enter valid username.
+  2. Enter valid password.
+  3. Press button “Continue",
   "Actual result": "result",
   "Expected result":
 }
